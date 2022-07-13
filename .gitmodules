@@ -3,3 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "SOMEnv"]
+	path = SOMEnv
+	url = https://github.com/somenv/somenv
+	shallow = true
+	subdir = SOMEnv
+	registered = true

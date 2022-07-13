@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "SOMEnv",
+    "oncran": true
+  }
+]
